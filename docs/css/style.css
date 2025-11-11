@@ -106,6 +106,7 @@ body {
 .pic {
     height: 18vw;
     margin-right: 2vw;
+    border-radius: 100%;
 }
 
 .presentaciontxt {
