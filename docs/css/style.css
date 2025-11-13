@@ -254,6 +254,7 @@ h1::after {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-top: 2vw;
 }
 
 .divisor2 {
@@ -317,7 +318,24 @@ h1::after {
     box-shadow: 0 0.6vw 1vw rgba(0, 0, 0, 0.2);
 }
 
+#Proyectos {
+    display: flex;
+
+}
+
 .ProyectosSection {
     height: 100vh;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Contactame {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
